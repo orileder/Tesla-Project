@@ -15,3 +15,7 @@ This project is purely for educational purposes. Feel free to explore the code, 
 ## Contributing
 
 While this project is mainly for assignment purposes, pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## to do list
+- [ ] build upper bar
+- [ ] buils
