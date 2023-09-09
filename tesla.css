@@ -1,0 +1,59 @@
+*,html,body { 
+    font-family: 'Gotham', sans-serif;
+    margin: none;
+    padding: none;
+}
+a {
+    color: white;
+    text-decoration: underline
+    ;
+}
+#stickbar {
+    height: min-content;
+    width: 100%;
+    background-image: radial-gradient(54.97% 272.54% at 27.36% -134.72%,rgba(108,148,255,.92) 0,rgba(0,0,0,.92) 100%);
+    color: white;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: center; 
+}
+#page1 {
+    height: 700px;
+    width: 100%; 
+    padding: none;
+    position: relative;
+}
+#page2 {
+    height: 900px;
+    width: 100%;
+}
+#background-vid {
+max-height: 700px;
+width:100%;
+
+}
+#structure {
+    height: 500px;
+    width: fit-content;
+    margin: auto;
+}
+#link2 {
+    color:black;
+    text-decoration: underline;
+}
+#cont1 {
+    max-width: 600px;
+    align-self: center;
+    height: 150px;
+    }
+#p2textbox1 {
+float: left;
+width: 40%;
+height:100%;
+}
+#p2textbox2 {
+    float: right;
+width: 40%;
+height:100%;
+
+}
