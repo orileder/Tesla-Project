@@ -18,7 +18,7 @@ a {
     text-align: center; 
 }
 #page1 {
-    height: 700px;
+
     width: 100%; 
     padding: none;
     position: relative;
@@ -28,14 +28,11 @@ a {
     width: 100%;
 }
 #background-vid {
-max-height: 700px;
-width:100%;
-
+   width: inherit;
+min-height: fit-content;
 }
 #structure {
-    height: 500px;
-    width: fit-content;
-    margin: auto;
+width: inherit;
 }
 #link2 {
     color:black;
@@ -56,4 +53,33 @@ height:100%;
 width: 40%;
 height:100%;
 
+}
+#logo {
+    height: 12px;
+    margin: 15px 25px;
+}
+#navbar {
+    z-index: 100;
+    position: absolute;
+    top: 0px;
+    z-index: 100;
+}
+#logodiv {
+    width: 24%;
+}
+#pagesdiv {
+    width: 50%;
+    position: top 0px left;
+}
+.navbutton {
+    margin:15px 10px;
+    color: white;
+    background-color: transparent;
+}
+#iconsdiv {
+    width: 20%;
+    height:fit-content;
+    position: absolute;
+    left: 80%;
+    top: 0px 
 }
